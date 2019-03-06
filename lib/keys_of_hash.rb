@@ -7,6 +7,8 @@ def animals
     "tomato frog" => "Madagascar",
     "koala" => "Australia"
   }
+end
+
 class Hash
   def keys_of(arguments)
     # code goes here
