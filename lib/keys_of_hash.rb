@@ -21,3 +21,5 @@ class Hash
     return array
   end
 end
+
+animals.keys_of("Australia", "Panama")
